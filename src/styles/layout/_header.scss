@@ -1,0 +1,6 @@
+.content-header {
+  @include flexbox();
+  @include align-items(center);
+  @include justify-content(center);
+
+}
